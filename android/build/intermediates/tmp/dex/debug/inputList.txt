@@ -1,0 +1,5 @@
+/Users/matias/AndroidStudioProjects/OnlyJump/android/build/intermediates/classes/debug
+/Users/matias/AndroidStudioProjects/OnlyJump/android/build/intermediates/pre-dexed/debug/core-1.0-5c9d2cade47b48ac8cd2a6f92158d7cda3f2f829.jar
+/Users/matias/AndroidStudioProjects/OnlyJump/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.5.3-e45dd11d77615238ea06594e85e1bc9aa0e3ea8a.jar
+/Users/matias/AndroidStudioProjects/OnlyJump/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.5.3-260184413f2cd2651804caa7e094f01e13d60a21.jar
+/Users/matias/AndroidStudioProjects/OnlyJump/android/build/intermediates/pre-dexed/debug/gdx-1.5.3-1785411cb6d259b8b56edf410272934f8496edec.jar
