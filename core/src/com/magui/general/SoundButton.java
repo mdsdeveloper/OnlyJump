@@ -96,7 +96,6 @@ public class SoundButton implements Button {
         public void setWidth(float w){
             this.w_init = w;
         }
-
     }
 
 
