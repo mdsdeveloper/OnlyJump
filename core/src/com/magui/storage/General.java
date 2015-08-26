@@ -38,7 +38,7 @@ public class General {
         batch = new SpriteBatch();
         w = Gdx.graphics.getWidth();
         h = Gdx.graphics.getHeight();
-        estado = state.splash;
+        estado = state.running;
 
     }
 }

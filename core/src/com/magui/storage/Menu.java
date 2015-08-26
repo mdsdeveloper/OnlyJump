@@ -41,9 +41,9 @@ public class Menu {
         imgSound_on.setFilter(Texture.TextureFilter.Linear, Texture.TextureFilter.Linear);
         imgSound_off = new Texture("buttons/sound_off.png");
         imgSound_off.setFilter(Texture.TextureFilter.Linear, Texture.TextureFilter.Linear);
-        button = new SimpleButton(General.w/10,General.w/10,600 - (General.w/10)/2,General.h/4 + 160,imgBTMenu);
-        buttonSound = new SoundButton(General.w/10, General.w/10,360 - (General.w/10)/2, General.h/4 + 100,imgSound_on,imgSound_off);
-        buttonMusic = new MusicButton(General.w/10,General.w/10, 120 -(General.w/10)/2 , General.h/4 + 50,imgMusic_on,imgMusic_off);
+        button = new SimpleButton(General.w/10,General.w/10,(General.w/6)*5 - (General.w/10)/2,General.h/4 + 160,imgBTMenu);
+        buttonSound = new SoundButton(General.w/10, General.w/10,(General.w/6)*3 - (General.w/10)/2, General.h/4 + 100,imgSound_on,imgSound_off);
+        buttonMusic = new MusicButton(General.w/10,General.w/10,(General.w/6)*1 -(General.w/10)/2 , General.h/4 + 50,imgMusic_on,imgMusic_off);
 // width screen is 720 then i get the mesure for the button div 720 / 6 = 1(120) 2(240) 3(360) 4(480) 5(600)
         // in thos mesure i put the button in the eje x
 
